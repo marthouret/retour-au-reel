@@ -100,7 +100,10 @@ Les surfaces artificialisées en France représente près de 50 000 km², soit 9
 
 # Ordres de grandeur des sources d’énergie
 
+Pour comparer ces technologies de manière cohérente, il faut les observer selon plusieurs contraintes physiques simultanées : territoire occupé, émissions de gaz à effet de serre et ressources matérielles nécessaires.   
+
 Afin de nous représenter clairement ce que cela représente, résumons ces contraintes en un tableau.   
+
 *A noter : les ordres de grandeur ci-dessous correspondent à une production d’énergie couvrant la totalité des besoins actuels, afin de comparer les technologies sur une base commune.*
 
 | énergie | MWh/ha/an | CO₂e kg/MWh | territoire / personne | matériaux t/TWh | stockage |
@@ -160,8 +163,7 @@ Ci-dessous une vue consolidée de ces informations.
 
 ![Contraintes énergétiques](/images/energie-comparaison.svg)
 
-*valeurs normalisées (0–1)*   
-*comparaison relative des contraintes*
+*Attention : les valeurs sont normalisées (0–1), il n'y a pas de comparaison possible entre deux contraintes différentes.*
 
 ---
 
