@@ -27,33 +27,26 @@ Avant de discuter des solutions, revenons à quelques **ordres de grandeur fonda
 
 # L’énergie par habitant
 
-Chaque Français dispose indirectement d’environ :
-
-**22 MWh d’énergie par an**
-
-Cela correspond à une puissance moyenne d’environ :
-
-**2500 watts en permanence.**
-
-Autrement dit, chaque citoyen bénéficie en continu d’une armée invisible de machines énergétiques.
+Un chiffre résume peut-être le mieux cette réalité. Chaque Français dispose indirectement d’environ **22 MWh d’énergie par an**, soit une puissance moyenne d’environ **2 500 watts en permanence**. Autrement dit, chaque citoyen bénéficie en continu d’une armée invisible de machines énergétiques.
 
 Pour donner un ordre de grandeur concret, cela représente l'équivalent de :
 
-- un SUV électrique parcourant environ **120 000 km par an**
+- un SUV électrique parcourant environ **120 000 km**
 - **3,3 chevaux mécaniques** fonctionnant jour et nuit
 - environ **25 esclaves énergétiques** produisant chacun 100 watts
 
-La consommation énergétique par habitant n’a pas toujours été aussi élevée. Le tableau ci-dessous donne les ordres de grandeur historiques de la consommation d'un Français moyen.
+La consommation énergétique par habitant n’a pas toujours été aussi considérable. Le tableau ci-dessous donne les ordres de grandeur historiques de la puissance énergétique mise à la disposition d'un Français moyen.
 
-| époque | puissance moyenne | équivalent humain | équivalent cheval |
-|------|------|------|------|
-| 1700 | ~200 W | 2 | 0,25 |
-| 1800 | ~300 W | 3 | 0,4 |
-| 1900 | ~1000 W | 10 | 1,3 |
-| 1950 | ~2000 W | 20 | 2,6 |
-| 2025 | ~2500 W | 25 | 3,3 |
+| Époque | Puissance moyenne | Équivalent humain | Équivalent cheval | Équivalent moulin à eau |
+|------|------|------|------|------|
+| 1700 | ~200 W | 2 | 0,25 | 1 moulin pour 50 habitants |
+| 1800 | ~300 W | 3 | 0,4 | 1 moulin pour 33 habitants |
+| 1900 | ~1000 W | 10 | 1,3 | 1 moulin pour 10 habitants |
+| 1950 | ~2000 W | 20 | 2,6 | 1 moulin pour 5 habitants |
+| 2025 | ~2500 W | 25 | 3,3 | 1 moulin pour 4 habitants |
 
-*(Un humain peut produire environ 100 W en continu, un cheval environ 750 W).*
+*(Un humain adulte peut produire environ 100 W en continu, un cheval environ 750 W).*   
+*(Un moulin à eau classique développe une puissance mécanique de l’ordre de 10 kW, soit l’équivalent de quelques chevaux de trait ou d’une dizaine de travailleurs humains en continu).*
 
 La révolution industrielle a multiplié par **plus de dix l’énergie disponible par habitant**, d'autant que la population du pays a plus que triplé sur la même période.
 
