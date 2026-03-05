@@ -12,3 +12,8 @@ ShowReadingTime = true
 ShowShareButtons = true
 ShowCodeCopyButtons = true
 ShowToc = true
+
+[params.assets]
+favicon = "/favicon.ico"
+favicon16x16 = "/favicon-96x96.png"
+apple_touch_icon = "/apple-touch-icon.png"

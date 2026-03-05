@@ -100,7 +100,8 @@ Les surfaces artificialisées en France représente près de 50 000 km², soit 9
 
 # Ordres de grandeur des sources d’énergie
 
-Afin de nous représenter clairement ce que cela représente, résumons ces contraintes en un tableau :
+Afin de nous représenter clairement ce que cela représente, résumons ces contraintes en un tableau.   
+*A noter : les ordres de grandeur ci-dessous correspondent à une production d’énergie couvrant la totalité des besoins actuels, afin de comparer les technologies sur une base commune.*
 
 | énergie | MWh/ha/an | CO₂e kg/MWh | territoire / personne | matériaux t/TWh | stockage |
 |------|------|------|------|------|------|
