@@ -160,6 +160,9 @@ Ci-dessous une vue consolidée de ces informations.
 
 ![Contraintes énergétiques](/images/energie-comparaison.svg)
 
+*valeurs normalisées (0–1)*   
+*comparaison relative des contraintes*
+
 ---
 
 # Trois illusions énergétiques
