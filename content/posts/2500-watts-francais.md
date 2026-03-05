@@ -94,7 +94,7 @@ Mais comme le soleil ne brille ni la nuit ni en hiver, un système largement sol
 
 ➡ **15 000 à 20 000 km²**, soit environ 5-7% des surfaces agricoles du territoire métropolitain ou la superficie moyenne de 2,5 à 3,3 départements.
 
-Les surfaces artificialisées en France représente près de 50 000 km², soit 9% du territoire. Mais sii l’on se restreint aux toitures de bâtiments et aux parkings qui pourraient être réellement couverts de panneaux, on parle de l’ordre de quelques milliers de km² tout au plus, soit bien moins de 1% du territoire métropolitain, et nettement moins que les 15 000 à 20 000 km² qu’exigerait un système largement fondé sur le solaire. 
+Les surfaces artificialisées en France représente près de 50 000 km², soit 9% du territoire. Mais si l’on se restreint aux toitures de bâtiments et aux parkings qui pourraient être réellement couverts de panneaux, on parle de l’ordre de quelques milliers de km² tout au plus, soit bien moins de 1% du territoire métropolitain, et nettement moins que les 15 000 à 20 000 km² qu’exigerait un système massivement solaire : la majorité de ces surfaces devraient être prises sur d’autres usages du sol.
 
 ---
 
@@ -102,15 +102,15 @@ Les surfaces artificialisées en France représente près de 50 000 km², soit 9
 
 Afin de nous représenter clairement ce que cela représente, résumons ces contraintes en un tableau :
 
-| énergie | MWh/ha/an | CO₂e kg/MWh | territoire / personne | matériaux t/TWh (50 ans) | stockage |
+| énergie | MWh/ha/an | CO₂e kg/MWh | territoire / personne | matériaux t/TWh | stockage |
 |------|------|------|------|------|------|
-| biomasse | 40–60 | 30–200 | 0,37–0,55 ha | ~5000 | non |
-| éolien terrestre | 150–250 | 10–15 | 0,09–0,15 ha | ~30 000 – 35 000 | élevé |
-| solaire PV | 900–1300 | 40–60 | 0,017–0,024 ha | ~16 700 | très élevé |
-| nucléaire | ~50 000 | 6–12 | 0,00044 ha | ~1 400 | faible |
-| gaz | ~10 000 | ~400 | 0,0022 ha | ~1 400 | faible |
-| pétrole | ~15 000 | ~300 | 0,0015 ha | ~1 400 | faible |
-| charbon | ~20 000 | ~900 | 0,0011 ha | ~1 900 | faible |
+| biomasse | 40–60 | 30–200 | 3 700–5 500 m² | ~5000 | non |
+| éolien terrestre | 150–250 | 10–15 | 900–1 500 m² | 30 000 – 35 000 | élevé |
+| solaire PV | 900–1300 | 40–60 | 170–240 m² | 15 000–25 000 | très élevé |
+| nucléaire | ~50 000 | 6–12 | 4 m² | ~1 400 | faible |
+| gaz | ~10 000 | ~400 | 22 m² | ~1 400 | faible |
+| pétrole | ~15 000 | ~300 | 15 m²| ~1 400 | faible |
+| charbon | ~20 000 | ~900 | 11 m² | ~1 900 | faible |
 
 *Les matériaux incluent le renouvellement des infrastructures sur 50 ans.*
 
@@ -128,7 +128,7 @@ nucléaire     ▏
 fossiles      ▏
 ```
 
-### Émissions CO₂e
+### Émissions de CO₂e
 
 ```
 charbon       █████████████████████████
@@ -139,7 +139,7 @@ solaire       ██
 nucléaire     ▏
 ```
 
-### Matériaux (50 ans)
+### Matériaux (sur 50 ans)
 
 ```
 éolien        ███████████████████
