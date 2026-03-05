@@ -157,13 +157,13 @@ nucléaire     ██
 fossiles      ██
 ```
 
-Ces graphiques illustrent une réalité simple : chaque source d’énergie déplace les impacts entre territoire, climat et ressources matérielles.   
-
-Ci-dessous une vue consolidée de ces informations.   
+Ci-dessous une vue consolidée de ces informations dans un graphique unique.   
 
 ![Contraintes énergétiques](/images/energie-comparaison.svg)
 
 *Attention : les valeurs sont normalisées (0–1) pour permettre la comparaison visuelle entre technologies. Mais il n'y a pas de comparaison possible entre deux contraintes différentes.*
+
+Le graphique montre bien que chaque source d’énergie déplace les contraintes physiques : certaines nécessitent beaucoup de territoire, d’autres consomment beaucoup de ressources et matériaux, d’autres émettent davantage de CO₂. Le choix du mix énergétique est donc fonction de divers compromis sur le territoire, les impacts climatiques ou la consommation de matériaux.
 
 ---
 
