@@ -138,6 +138,7 @@ nucléaire         ▏
 charbon       ██████████████████████████████████████████████████████
 gaz           ███████████████████████████
 pétrole       ██████████████████
+biomasse      ██████
 solaire       ███
 éolien        █▏
 nucléaire     ▏
@@ -152,7 +153,11 @@ nucléaire     ██
 fossiles      ██
 ```
 
-Ces graphiques illustrent une réalité simple : chaque source d’énergie déplace les impacts entre territoire, climat et ressources matérielles.
+Ces graphiques illustrent une réalité simple : chaque source d’énergie déplace les impacts entre territoire, climat et ressources matérielles.   
+
+Ci-dessous une vue consolidée de ces informations.   
+
+![Contraintes énergétiques](/images/energie-comparaison.svg)
 
 ---
 
