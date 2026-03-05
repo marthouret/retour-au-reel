@@ -4,7 +4,7 @@ date: 2026-03-05
 author: "Arnaud Balandras"
 description: "Que représentent réellement les 22 MWh d'énergie consommés chaque année par un Français ? Une exploration des ordres de grandeur physiques de la transition énergétique."
 cover:
-  image: "/images/energie-gaia.png"
+  image: "images/energie-gaia.png"
 tags:
 - énergie
 - climat
