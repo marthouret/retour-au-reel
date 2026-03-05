@@ -127,19 +127,19 @@ biomasse      	  █████████████████████
 éolien terrestre  █████████████
 solaire       	  ████
 éolien offshore   ██
-nucléaire         ▏
 tous fossiles     ▏
-```
+nucléaire         ▏
+``
 
 ### Émissions de CO₂e
 
 ```
-charbon       ███████████████████████████████
-gaz           █████████████
-pétrole       █████████
-solaire       ██
-éolien        ▏
-nucléaire     ▏
+charbon       ████████████████████████████████████████████████████████████████████████████████████████████████████████████
+gaz           ████████████████████████████████████
+pétrole       ████████████████████████
+solaire       ████
+éolien        ██▏
+nucléaire     █
 ```
 
 ### Matériaux (sur 50 ans)
