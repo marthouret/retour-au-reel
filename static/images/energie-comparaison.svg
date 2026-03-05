@@ -1,38 +1,84 @@
-<svg width="900" height="450" viewBox="0 0 900 450" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="460" viewBox="0 0 900 460" xmlns="http://www.w3.org/2000/svg">
 
 <style>
 .axis { stroke:#333; stroke-width:1; }
 .grid { stroke:#ccc; stroke-dasharray:3 3; }
-.label { font-family:Arial, sans-serif; font-size:12px; fill:#999; }
-.title { font-family:Arial, sans-serif; font-size:18px; font-weight:bold; fill:#888; }
-.legend { font-family:Arial, sans-serif; font-size:13px; }
+.label { font-family:Arial, sans-serif; font-size:12px; fill:#444; }
+.title { font-family:Arial, sans-serif; font-size:20px; font-weight:bold; fill:#333; }
+.subtitle { font-family:Arial, sans-serif; font-size:13px; fill:#666; }
+.legend { font-family:Arial, sans-serif; font-size:13px; fill:#333; }
+.scale { font-family:Arial, sans-serif; font-size:11px; fill:#666; }
 </style>
 
-<text x="450" y="30" text-anchor="middle" class="title">
+<!-- title -->
+<text x="450" y="28" text-anchor="middle" class="title">
 Contraintes physiques des sources d’énergie
 </text>
 
-<!-- grid -->
-<line x1="60" y1="380" x2="840" y2="380" class="axis"/>
+<text x="450" y="46" text-anchor="middle" class="subtitle">
+Territoire • Émissions de CO₂ • Ressources matérielles
+</text>
 
-<!-- vertical grid -->
+<!-- axes -->
+<line x1="60" y1="380" x2="840" y2="380" class="axis"/>
+<line x1="60" y1="60" x2="60" y2="380" class="axis"/>
+
+<!-- grid -->
 <g class="grid">
 <line x1="60" y1="100" x2="840" y2="100"/>
 <line x1="60" y1="200" x2="840" y2="200"/>
 <line x1="60" y1="300" x2="840" y2="300"/>
 </g>
 
+<!-- scale -->
+<g class="scale">
+<text x="30" y="380">0</text>
+<text x="25" y="300">0.25</text>
+<text x="25" y="200">0.5</text>
+<text x="25" y="100">0.75</text>
+<text x="25" y="60">1</text>
+</g>
+
 <!-- labels energy -->
 <g class="label">
-<text x="60" y="400">Biomasse</text>
-<text x="140" y="400">Éolien terr.</text>
-<text x="226" y="400">Éolien offshore</text>
-<text x="330" y="400">Solaire PV</text>
-<text x="427" y="400">Nucléaire</text>
-<text x="535" y="400">Gaz</text>
-<text x="620" y="400">Pétrole</text>
-<text x="700" y="400">Charbon</text>
+<text x="60" y="405">Biomasse</text>
+<text x="140" y="405">Éolien terr.</text>
+<text x="226" y="405">Éolien offshore</text>
+<text x="330" y="405">Solaire PV</text>
+<text x="427" y="405">Nucléaire</text>
+<text x="535" y="405">Gaz</text>
+<text x="620" y="405">Pétrole</text>
+<text x="700" y="405">Charbon</text>
 </g>
+
+<!-- simple icons -->
+
+<!-- leaf -->
+<ellipse cx="70" cy="368" rx="6" ry="10" fill="#3a8f3a"/>
+
+<!-- wind -->
+<circle cx="150" cy="365" r="6" fill="#888"/>
+<line x1="150" y1="365" x2="150" y2="350" stroke="#888"/>
+
+<!-- offshore -->
+<circle cx="236" cy="365" r="6" fill="#888"/>
+<line x1="236" y1="365" x2="236" y2="350" stroke="#888"/>
+<line x1="226" y1="370" x2="246" y2="370" stroke="#4aa3df"/>
+
+<!-- sun -->
+<circle cx="340" cy="365" r="7" fill="#f2b705"/>
+
+<!-- atom -->
+<circle cx="437" cy="365" r="6" fill="#9b59b6"/>
+
+<!-- flame -->
+<path d="M535 372 C530 360 545 360 535 350 C550 360 540 372 535 372" fill="#ff7f0e"/>
+
+<!-- oil -->
+<rect x="615" y="358" width="10" height="14" fill="#444"/>
+
+<!-- coal -->
+<polygon points="700,370 705,360 715,362 712,372" fill="#333"/>
 
 <!-- territoire -->
 <polyline fill="none" stroke="green" stroke-width="3"
@@ -74,14 +120,15 @@ points="
 "/>
 
 <!-- legend -->
-<rect x="700" y="13" width="120" height="70" fill="grey" stroke="#333"/>
-<circle cx="720" cy="30" r="5" fill="green"/>
-<text x="740" y="35" class="legend">Territoire</text>
+<rect x="700" y="60" width="140" height="80" fill="#f7f7f7" stroke="#ccc"/>
 
-<circle cx="720" cy="50" r="5" fill="red"/>
-<text x="740" y="55" class="legend">CO₂</text>
+<circle cx="720" cy="85" r="5" fill="green"/>
+<text x="740" y="90" class="legend">Territoire</text>
 
-<circle cx="720" cy="70" r="5" fill="blue"/>
-<text x="740" y="75" class="legend">Matériaux</text>
+<circle cx="720" cy="105" r="5" fill="red"/>
+<text x="740" y="110" class="legend">CO₂</text>
+
+<circle cx="720" cy="125" r="5" fill="blue"/>
+<text x="740" y="130" class="legend">Matériaux</text>
 
 </svg>

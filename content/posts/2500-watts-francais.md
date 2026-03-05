@@ -110,12 +110,13 @@ Afin de nous représenter clairement ce que cela représente, résumons ces cont
 | éolien offshore | 2 000–3 500 | 15–25 | 60–110 m² | 40 000–60 000 | élevé |
 | solaire PV | 900–1300 | 40–60 | 170–240 m² | 15 000–25 000 | très élevé |
 | nucléaire | ~50 000 | 6–12 | 4 m² | ~1 400 | faible |
-| gaz | ~10 000 | ~400 | 22 m² | ~1 400 | faible |
-| pétrole | ~15 000 | ~300 | 15 m²| ~1 400 | faible |
-| charbon | ~20 000 | ~900 | 11 m² | ~1 900 | faible |
+| gaz | ~10 000 | 350–450 | 22 m² | ~1 400 | faible |
+| pétrole | ~15 000 | 250–300 | 15 m²| ~1 400 | faible |
+| charbon | ~20 000 | 800–1000 | 11 m² | ~1 900 | faible |
 
 *Les matériaux incluent le renouvellement des infrastructures sur 50 ans. On donne ici un ordre de grandeur pour comparer les filières entre elles, pas un inventaire exhaustif.*   
-*Pour l’éolien offshore, on parle de surface marine occupée par les parcs, la mer restant par ailleurs partiellement utilisable (pêche, trafic) selon les zones.*
+*Pour l’éolien offshore, on parle de surface marine occupée par les parcs, la mer restant par ailleurs partiellement utilisable (pêche, trafic) selon les zones.*  
+*Pour les énergies fossiles, pétrole, gaz, charbon, il est tenu compte des pertes dues au transport, et pour le gaz, de la liquéfaction GNL et des fuites de méthane.*
 
 ---
 
