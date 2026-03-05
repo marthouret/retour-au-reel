@@ -113,29 +113,30 @@ Afin de nous représenter clairement ce que cela représente, résumons ces cont
 | pétrole | ~15 000 | ~300 | 15 m²| ~1 400 | faible |
 | charbon | ~20 000 | ~900 | 11 m² | ~1 900 | faible |
 
-*Les matériaux incluent le renouvellement des infrastructures sur 50 ans.*
+*Les matériaux incluent le renouvellement des infrastructures sur 50 ans.*   
 *Pour l’éolien offshore, on parle de surface marine occupée par les parcs, la mer restant par ailleurs partiellement utilisable (pêche, trafic) selon les zones.*
 
 ---
 
 # Contraintes physiques des sources d’énergie
 
-### Territoire
+### Territoire (pour 1 MWh)
 
 ```
-biomasse      █████████████████████████
-éolien        ███████
-solaire       ██
-nucléaire     ▏
-fossiles      ▏
+biomasse      	  █████████████████████████████████████
+éolien terrestre  █████████████
+solaire       	  ████
+éolien offshore   ██
+nucléaire         ▏
+tous fossiles     ▏
 ```
 
 ### Émissions de CO₂e
 
 ```
-charbon       █████████████████████████
-gaz           █████████
-pétrole       ███████
+charbon       ███████████████████████████████
+gaz           █████████████
+pétrole       █████████
 solaire       ██
 éolien        ▏
 nucléaire     ▏
@@ -144,13 +145,13 @@ nucléaire     ▏
 ### Matériaux (sur 50 ans)
 
 ```
-éolien        ███████████████████
-solaire       █████████
+éolien        █████████████████████████████████
+solaire       ███████████████
 nucléaire     ██
-gaz           ██
+fossiles      ██
 ```
 
-Ces graphiques illustrent une réalité simple : chaque source d’énergie déplace les contraintes entre territoire, climat et ressources matérielles.
+Ces graphiques illustrent une réalité simple : chaque source d’énergie déplace les impacts entre territoire, climat et ressources matérielles.
 
 ---
 
