@@ -105,7 +105,8 @@ Afin de nous représenter clairement ce que cela représente, résumons ces cont
 | énergie | MWh/ha/an | CO₂e kg/MWh | territoire / personne | matériaux t/TWh | stockage |
 |------|------|------|------|------|------|
 | biomasse | 40–60 | 30–200 | 3 700–5 500 m² | ~5000 | non |
-| éolien terrestre | 150–250 | 10–15 | 900–1 500 m² | 30 000 – 35 000 | élevé |
+| éolien terrestre | 150–250 | 10–15 | 900–1 500 m² | 30 000-35 000 | élevé |
+| éolien offshore | 2 000–3 500 | 15–25 | 60–110 m² | 40 000–60 000 | élevé |
 | solaire PV | 900–1300 | 40–60 | 170–240 m² | 15 000–25 000 | très élevé |
 | nucléaire | ~50 000 | 6–12 | 4 m² | ~1 400 | faible |
 | gaz | ~10 000 | ~400 | 22 m² | ~1 400 | faible |
@@ -113,6 +114,7 @@ Afin de nous représenter clairement ce que cela représente, résumons ces cont
 | charbon | ~20 000 | ~900 | 11 m² | ~1 900 | faible |
 
 *Les matériaux incluent le renouvellement des infrastructures sur 50 ans.*
+*Pour l’éolien offshore, on parle de surface marine occupée par les parcs, la mer restant par ailleurs partiellement utilisable (pêche, trafic) selon les zones.*
 
 ---
 
