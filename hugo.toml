@@ -1,11 +1,13 @@
 baseURL = "https://retour-au-reel.fr"
 title = "Retour au réel"
 theme = "PaperMod"
+enableRobotsTXT = true
 
 languageCode = "fr"
 
 [params]
 author = "Arnaud Balandras"
+description = "Comprendre les ordres de grandeur physiques de la transition énergétique."
 ShowReadingTime = true
 ShowShareButtons = true
 ShowCodeCopyButtons = true
