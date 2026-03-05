@@ -8,3 +8,5 @@ languageCode = "fr"
 author = "Arnaud Balandras"
 ShowReadingTime = true
 ShowShareButtons = true
+ShowCodeCopyButtons = true
+ShowToc = true
