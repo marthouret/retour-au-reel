@@ -1,0 +1,10 @@
+baseURL = "https://retour-au-reel.fr"
+title = "Retour au réel"
+theme = "PaperMod"
+
+languageCode = "fr"
+
+[params]
+author = "Arnaud Balandras"
+ShowReadingTime = true
+ShowShareButtons = true

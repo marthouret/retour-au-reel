@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Retour au réel</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Retour au réel</description>
+    <generator>Hugo -- 0.157.0</generator>
+    <language>fr</language>
+    <lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2500 watts par Français : les ordres de grandeur oubliés de la transition énergétique</title>
+      <link>http://localhost:1313/posts/2500-watts-francais/</link>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2500-watts-francais/</guid>
+      <description>Que représentent réellement les 22 MWh d&amp;#39;énergie consommés chaque année par un Français ? Une exploration des ordres de grandeur physiques de la transition énergétique.</description>
+    </item>
+  </channel>
+</rss>
