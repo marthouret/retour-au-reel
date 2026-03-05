@@ -21,7 +21,7 @@ Territoire • Émissions de CO₂ • Ressources matérielles
 
 <!-- axes -->
 <line x1="60" y1="380" x2="840" y2="380" class="axis"/>
-<line x1="60" y1="60" x2="60" y2="380" class="axis"/>
+<line x1="60" y1="10" x2="60" y2="380" class="axis"/>
 
 <!-- grid -->
 <g class="grid">
@@ -36,7 +36,7 @@ Territoire • Émissions de CO₂ • Ressources matérielles
 <text x="25" y="300">0.25</text>
 <text x="25" y="200">0.5</text>
 <text x="25" y="100">0.75</text>
-<text x="25" y="60">1</text>
+<text x="30" y="20">1</text>
 </g>
 
 <!-- labels energy -->
@@ -54,31 +54,31 @@ Territoire • Émissions de CO₂ • Ressources matérielles
 <!-- simple icons -->
 
 <!-- leaf -->
-<ellipse cx="70" cy="368" rx="6" ry="10" fill="#3a8f3a"/>
+<ellipse cx="80" cy="368" rx="6" ry="10" fill="#3a8f3a"/>
 
 <!-- wind -->
-<circle cx="150" cy="365" r="6" fill="#888"/>
-<line x1="150" y1="365" x2="150" y2="350" stroke="#888"/>
+<circle cx="160" cy="365" r="6" fill="#888"/>
+<line x1="160" y1="365" x2="160" y2="350" stroke="#888"/>
 
 <!-- offshore -->
-<circle cx="236" cy="365" r="6" fill="#888"/>
-<line x1="236" y1="365" x2="236" y2="350" stroke="#888"/>
-<line x1="226" y1="370" x2="246" y2="370" stroke="#4aa3df"/>
+<circle cx="257" cy="355" r="6" fill="#888"/>
+<line x1="257" y1="355" x2="257" y2="340" stroke="#888"/>
+<line x1="247" y1="360" x2="257" y2="360" stroke="#4aa3df"/>
 
 <!-- sun -->
-<circle cx="340" cy="365" r="7" fill="#f2b705"/>
+<circle cx="350" cy="365" r="7" fill="#f2b705"/>
 
 <!-- atom -->
-<circle cx="437" cy="365" r="6" fill="#9b59b6"/>
+<circle cx="447" cy="365" r="6" fill="#9b59b6"/>
 
 <!-- flame -->
 <path d="M535 372 C530 360 545 360 535 350 C550 360 540 372 535 372" fill="#ff7f0e"/>
 
 <!-- oil -->
-<rect x="615" y="358" width="10" height="14" fill="#444"/>
+<rect x="630" y="358" width="10" height="14" fill="#444"/>
 
 <!-- coal -->
-<polygon points="700,370 705,360 715,362 712,372" fill="#333"/>
+<polygon points="710,370 715,360 725,362 722,372" fill="#333"/>
 
 <!-- territoire -->
 <polyline fill="none" stroke="green" stroke-width="3"
