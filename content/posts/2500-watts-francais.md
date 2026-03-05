@@ -113,7 +113,7 @@ Afin de nous représenter clairement ce que cela représente, résumons ces cont
 | pétrole | ~15 000 | ~300 | 15 m²| ~1 400 | faible |
 | charbon | ~20 000 | ~900 | 11 m² | ~1 900 | faible |
 
-*Les matériaux incluent le renouvellement des infrastructures sur 50 ans.*   
+*Les matériaux incluent le renouvellement des infrastructures sur 50 ans. On donne ici un ordre de grandeur pour comparer les filières entre elles, pas un inventaire exhaustif.*   
 *Pour l’éolien offshore, on parle de surface marine occupée par les parcs, la mer restant par ailleurs partiellement utilisable (pêche, trafic) selon les zones.*
 
 ---
@@ -214,7 +214,7 @@ Une question reste rarement posée : **quelle quantité d’énergie voulons-nou
 Deux exemples suffisent à montrer l’ordre de grandeur des économies possibles.
 
 - Réduire de **20 % le trafic aérien** représenterait **20 TWh économisés**.  
-  C’est l’équivalent de la production annuelle d’environ **45 millions de panneaux solaires**, couvrant **90 km²** de surface.
+  C’est l’équivalent de la production annuelle d’environ **45 millions de panneaux solaires**, couvrant **90 km²** de surface, ou de 2 réacteurs nucléaires.
 
 - Diviser par deux le **kilométrage automobile actuel** économiserait environ **150 TWh d’énergie par an**, soit l’équivalent de la production de **15 réacteurs nucléaires**.  
   Pour être juste, si l’ensemble du parc automobile était alimenté par l'électricité, l’énergie nécessaire serait environ **trois fois plus faible** grâce à un rendement nettement supérieur. Dans ce cas, la même réduction de kilométrage représenterait tout de même **5 réacteurs nucléaires**.
