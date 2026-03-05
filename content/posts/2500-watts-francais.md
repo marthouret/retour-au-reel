@@ -48,24 +48,21 @@ La consommation énergétique par habitant n’a pas toujours été aussi consid
 *(Un humain adulte peut produire environ 100 W en continu, un cheval environ 750 W).*   
 *(Un moulin à eau classique développe une puissance mécanique de l’ordre de 10 kW, soit l’équivalent de quelques chevaux de trait ou d’une dizaine de travailleurs humains en continu).*
 
-La révolution industrielle a multiplié par **plus de dix l’énergie disponible par habitant**, d'autant que la population du pays a plus que triplé sur la même période.
+La révolution industrielle a multiplié par **plus de douze l’énergie disponible par habitant**, d'autant que la population du pays a plus que triplé sur la même période.
 
 ---
 
 # Traduire l’énergie en bois
 
-Un mètre cube de bois sec contient environ :
+Une autre manière de visualiser cette énergie consiste à la convertir en biomasse. Un mètre cube de bois sec (1 stère) contient environ **1,8 à 2 MWh d’énergie**
 
-**1,8 à 2 MWh d’énergie**
+Pour fournir 22 MWh par an, on doit donc produire :
 
-Pour fournir 22 MWh par an :
-
-➡ **11 stères de bois par personne**
+➡ **11 stères de bois par personne**.
 
 Cela correspond aussi à :
 
-- **4,5 tonnes de granulés**
-- environ **300 sacs de pellets**
+➡ **4,5 tonnes de granulés**, soit environ **300 sacs de pellets**.
 
 Pour une famille de quatre personnes :
 
@@ -73,29 +70,31 @@ Pour une famille de quatre personnes :
 
 Si toute l’énergie française provenait du bois :
 
-➡ **750 millions de stères par an**
+➡ **750 millions de stères par an**.
 
-La forêt française produit environ **90 millions de m³ par an**.
+La forêt française produit environ **90 millions de m³ par an**, dont seulement **50 millions sont réellement récoltés**. Il faudrait donc multiplier la récolte forestière par **8 à 15**.
+
+La biomasse peut jouer un rôle utile, mais ces ordres de grandeur montrent qu’elle ne peut pas soutenir à elle seule une société industrielle moderne.
 
 ---
 
 # L’équivalent en panneaux solaires
 
-Un panneau photovoltaïque produit environ :
+La même énergie peut être traduite en surface solaire. Un panneau photovoltaïque produit environ **220 kWh/m²/an**.
 
-**220 kWh/m²/an**
-
-Pour produire 22 000 kWh :
+Pour produire 22 000 kWh, il faut donc :
 
 ➡ **100 m² de panneaux par personne**
 
 À l’échelle de la France :
 
-➡ **6800 km² de panneaux solaires**
+➡ **6 800 km² de panneaux solaires**
 
-Mais avec stockage et intermittence :
+Mais comme le soleil ne brille ni la nuit ni en hiver, un système largement solaire nécessiterait plutôt : 
 
-➡ **15 000 à 20 000 km²**
+➡ **15 000 à 20 000 km²**, soit environ 5-7% des surfaces agricoles du territoire métropolitain ou la superficie moyenne de 2,5 à 3,3 départements.
+
+Les surfaces artificialisées en France représente près de 50 000 km², soit 9% du territoire. Mais sii l’on se restreint aux toitures de bâtiments et aux parkings qui pourraient être réellement couverts de panneaux, on parle de l’ordre de quelques milliers de km² tout au plus, soit bien moins de 1% du territoire métropolitain, et nettement moins que les 15 000 à 20 000 km² qu’exigerait un système largement fondé sur le solaire. 
 
 ---
 
