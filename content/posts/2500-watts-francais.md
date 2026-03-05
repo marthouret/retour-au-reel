@@ -129,7 +129,7 @@ solaire       	  ████
 éolien offshore   ██
 tous fossiles     ▏
 nucléaire         ▏
-``
+```
 
 ### Émissions de CO₂e
 
