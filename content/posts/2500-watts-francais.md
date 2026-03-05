@@ -163,7 +163,7 @@ Ci-dessous une vue consolidée de ces informations.
 
 ![Contraintes énergétiques](/images/energie-comparaison.svg)
 
-*Attention : les valeurs sont normalisées (0–1), il n'y a pas de comparaison possible entre deux contraintes différentes.*
+*Attention : les valeurs sont normalisées (0–1) pour permettre la comparaison visuelle entre technologies. Mais il n'y a pas de comparaison possible entre deux contraintes différentes.*
 
 ---
 
