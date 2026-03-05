@@ -37,15 +37,13 @@ Cela correspond à une puissance moyenne d’environ :
 
 Autrement dit, chaque citoyen bénéficie en continu d’une armée invisible de machines énergétiques.
 
-Pour donner un ordre de grandeur concret :
+Pour donner un ordre de grandeur concret, cela représente l'équivalent de :
 
 - un SUV électrique parcourant environ **120 000 km par an**
 - **3,3 chevaux mécaniques** fonctionnant jour et nuit
 - environ **25 esclaves énergétiques** produisant chacun 100 watts
 
----
-
-# Graphique 1 — L’énergie par habitant
+La consommation énergétique par habitant n’a pas toujours été aussi élevée. Le tableau ci-dessous donne les ordres de grandeur historiques de la consommation d'un Français moyen.
 
 | époque | puissance moyenne | équivalent humain | équivalent cheval |
 |------|------|------|------|
@@ -55,9 +53,9 @@ Pour donner un ordre de grandeur concret :
 | 1950 | ~2000 W | 20 | 2,6 |
 | 2025 | ~2500 W | 25 | 3,3 |
 
-*(Un humain peut produire environ 100 W en continu, un cheval environ 750 W.)*
+*(Un humain peut produire environ 100 W en continu, un cheval environ 750 W).*
 
-La révolution industrielle a multiplié par **plus de dix l’énergie disponible par habitant**.
+La révolution industrielle a multiplié par **plus de dix l’énergie disponible par habitant**, d'autant que la population du pays a plus que triplé sur la même période.
 
 ---
 
@@ -109,6 +107,8 @@ Mais avec stockage et intermittence :
 ---
 
 # Ordres de grandeur des sources d’énergie
+
+Afin de nous représenter clairement ce que cela représente, résumons ces contraintes en un tableau :
 
 | énergie | MWh/ha/an | CO₂e kg/MWh | territoire / personne | matériaux t/TWh (50 ans) | stockage |
 |------|------|------|------|------|------|
@@ -218,24 +218,22 @@ Une question reste rarement posée : **quelle quantité d’énergie voulons-nou
 
 Deux exemples suffisent à montrer l’ordre de grandeur des économies possibles.
 
-- Réduire de **10 % le trafic aérien** représenterait **10 TWh économisés**.  
-  C’est l’équivalent de la production annuelle d’environ **22 millions de panneaux solaires**, couvrant **45 km²** de surface.
+- Réduire de **20 % le trafic aérien** représenterait **20 TWh économisés**.  
+  C’est l’équivalent de la production annuelle d’environ **45 millions de panneaux solaires**, couvrant **90 km²** de surface.
 
 - Diviser par deux le **kilométrage automobile actuel** économiserait environ **150 TWh d’énergie par an**, soit l’équivalent de la production de **15 réacteurs nucléaires**.  
-  Si l’ensemble du parc automobile était électrique, l’énergie nécessaire serait environ **trois fois plus faible**. Dans ce cas, la même réduction de kilométrage représenterait tout de même **5 réacteurs nucléaires**.
+  Pour être juste, si l’ensemble du parc automobile était alimenté par l'électricité, l’énergie nécessaire serait environ **trois fois plus faible** grâce à un rendement nettement supérieur. Dans ce cas, la même réduction de kilométrage représenterait tout de même **5 réacteurs nucléaires**.
 
 Même avec des véhicules électriques beaucoup plus efficaces, la mobilité reste l’un des **postes énergétiques majeurs** de nos sociétés.
 
-L’électrification serait évidemment un progrès considérable car elle réduirait fortement l’énergie consommée. Mais elle se heurterait à une contrainte centrale : **la structure actuelle de nos usages énergétiques.**
+L’électrification serait évidemment un progrès considérable car elle réduirait fortement l’énergie consommée. Mais elle se heurterait à une contrainte majeure : **la structure actuelle de nos usages énergétiques.**
 
 En France seulement, cela concernerait :
-
 - environ **40 millions de véhicules**
 - **des millions de chaudières**
 - une grande partie du **parc industriel**
 
 Ces transformations nécessiteraient :
-
 - des métaux
 - des batteries
 - des infrastructures électriques
