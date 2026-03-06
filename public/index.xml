@@ -6,8 +6,17 @@
     <description>Recent content on Retour au réel</description>
     <generator>Hugo -- 0.157.0</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 05 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>À propos</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Arnaud Balandras — Docteur en physique des hautes énergies, amateur de réel&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Après une thèse au CERN sur la recherche de particules supersymétriques, et vingt ans dans le secteur numérique, j&amp;rsquo;ai décidé de revenir à ce qui m&amp;rsquo;a toujours animé : comprendre les systèmes complexes, leurs limites, et les illusions que nous construisons autour d&amp;rsquo;eux.&lt;/p&gt;
+&lt;p&gt;Ce blog parle d&amp;rsquo;énergie et d&amp;rsquo;écologie, non pas avec les lunettes de l&amp;rsquo;idéologie, mais avec celles du scientifique : des ordres de grandeur, des bilans, des contraintes réelles.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>2500 watts par Français : les ordres de grandeur oubliés de la transition énergétique</title>
       <link>http://localhost:1313/posts/2500-watts-francais/</link>

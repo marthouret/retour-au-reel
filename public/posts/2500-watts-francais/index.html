@@ -12,7 +12,7 @@
 <link rel="canonical" href="http://localhost:1313/posts/2500-watts-francais/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.da3211e5ef867bf2b75fd5a6515cfed7195c011e8ab735694e203810a827097b.css" integrity="sha256-2jIR5e&#43;Ge/K3X9WmUVz&#43;1xlcAR6KtzVpTiA4EKgnCXs=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-96x96.png">
 <link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
 <link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
 <link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
@@ -101,6 +101,16 @@
             </div>
         </div>
         <ul id="menu">
+            <li>
+                <a href="http://localhost:1313/posts/" title="Articles">
+                    <span>Articles</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://localhost:1313/about/" title="À propos">
+                    <span>À propos</span>
+                </a>
+            </li>
         </ul>
     </nav>
 </header>
@@ -115,14 +125,62 @@
     <div class="post-description">
       Que représentent réellement les 22 MWh d&#39;énergie consommés chaque année par un Français ? Une exploration des ordres de grandeur physiques de la transition énergétique.
     </div>
-    <div class="post-meta"><span title='2026-03-05 00:00:00 +0000 UTC'>March 5, 2026</span>&nbsp;·&nbsp;<span>5 min</span>&nbsp;·&nbsp;<span>Arnaud Balandras</span>
+    <div class="post-meta"><span title='2026-03-05 00:00:00 +0000 UTC'>March 5, 2026</span>&nbsp;·&nbsp;<span>8 min</span>&nbsp;·&nbsp;<span>Arnaud Balandras</span>
 
 </div>
   </header> 
 <figure class="entry-cover">
-        <img loading="eager" src="http://localhost:1313/images/energie-gaia.jpg" alt="">
+        <img loading="eager" src="http://localhost:1313/images/energie-gaia.png" alt="">
         
-</figure>
+</figure><div class="toc">
+    <details >
+        <summary accesskey="c" title="(Alt + C)">
+            <span class="details">Table des matières</span>
+        </summary>
+
+        <div class="inner"><ul>
+                <li>
+                    <a href="#l%c3%a9nergie-par-habitant" aria-label="L’énergie par habitant">L’énergie par habitant</a></li>
+                <li>
+                    <a href="#traduire-l%c3%a9nergie-en-bois" aria-label="Traduire l’énergie en bois">Traduire l’énergie en bois</a></li>
+                <li>
+                    <a href="#l%c3%a9quivalent-en-panneaux-solaires" aria-label="L’équivalent en panneaux solaires">L’équivalent en panneaux solaires</a></li>
+                <li>
+                    <a href="#ordres-de-grandeur-des-sources-d%c3%a9nergie" aria-label="Ordres de grandeur des sources d’énergie">Ordres de grandeur des sources d’énergie</a></li>
+                <li>
+                    <a href="#contraintes-physiques-des-sources-d%c3%a9nergie" aria-label="Contraintes physiques des sources d’énergie">Contraintes physiques des sources d’énergie</a><ul>
+                        <ul>
+                        
+                <li>
+                    <a href="#territoire-pour-1-mwh" aria-label="Territoire (pour 1 MWh)">Territoire (pour 1 MWh)</a></li>
+                <li>
+                    <a href="#%c3%a9missions-de-coe" aria-label="Émissions de CO₂e">Émissions de CO₂e</a></li>
+                <li>
+                    <a href="#mat%c3%a9riaux-sur-50-ans" aria-label="Matériaux (sur 50 ans)">Matériaux (sur 50 ans)</a></li></ul>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#trois-illusions-%c3%a9nerg%c3%a9tiques" aria-label="Trois illusions énergétiques">Trois illusions énergétiques</a><ul>
+                        
+                <li>
+                    <a href="#biomasse" aria-label="Biomasse">Biomasse</a></li>
+                <li>
+                    <a href="#hydrog%c3%a8ne" aria-label="Hydrogène">Hydrogène</a></li>
+                <li>
+                    <a href="#carburants-verts" aria-label="Carburants verts">Carburants verts</a></li></ul>
+                </li>
+                <li>
+                    <a href="#la-variable-oubli%c3%a9e--la-sobri%c3%a9t%c3%a9" aria-label="La variable oubliée : la sobriété">La variable oubliée : la sobriété</a></li>
+                <li>
+                    <a href="#une-exp%c3%a9rience-mentale" aria-label="Une expérience mentale">Une expérience mentale</a></li>
+                <li>
+                    <a href="#la-question-fondamentale" aria-label="La question fondamentale">La question fondamentale</a>
+                </li>
+            </ul>
+        </div>
+    </details>
+</div>
+
   <div class="post-content"><blockquote>
 <p>« La liberté d&rsquo;opinion est une farce si l&rsquo;information sur les faits n&rsquo;est pas garantie et si ce ne sont pas les faits eux-mêmes qui font l&rsquo;objet du débat. »</p>
 <p>— Hannah Arendt, <em>La Crise de la culture</em></p>
@@ -132,26 +190,22 @@
 <p>Avant de discuter des solutions, revenons à quelques <strong>ordres de grandeur fondamentaux</strong>.</p>
 <hr>
 <h1 id="lénergie-par-habitant">L’énergie par habitant<a hidden class="anchor" aria-hidden="true" href="#lénergie-par-habitant">#</a></h1>
-<p>Chaque Français dispose indirectement d’environ :</p>
-<p><strong>22 MWh d’énergie par an</strong></p>
-<p>Cela correspond à une puissance moyenne d’environ :</p>
-<p><strong>2500 watts en permanence.</strong></p>
-<p>Autrement dit, chaque citoyen bénéficie en continu d’une armée invisible de machines énergétiques.</p>
-<p>Pour donner un ordre de grandeur concret :</p>
+<p>Un chiffre résume peut-être le mieux cette réalité. Chaque Français dispose indirectement d’environ <strong>22 MWh d’énergie par an</strong>, soit une puissance moyenne d’environ <strong>2 500 watts en permanence</strong>. Autrement dit, chaque citoyen bénéficie en continu d’une armée invisible de machines énergétiques.</p>
+<p>Pour donner un ordre de grandeur concret, cela représente l&rsquo;équivalent de :</p>
 <ul>
-<li>un SUV électrique parcourant environ <strong>120 000 km par an</strong></li>
+<li>un SUV électrique parcourant environ <strong>120 000 km</strong></li>
 <li><strong>3,3 chevaux mécaniques</strong> fonctionnant jour et nuit</li>
 <li>environ <strong>25 esclaves énergétiques</strong> produisant chacun 100 watts</li>
 </ul>
-<hr>
-<h1 id="graphique-1--lénergie-par-habitant">Graphique 1 — L’énergie par habitant<a hidden class="anchor" aria-hidden="true" href="#graphique-1--lénergie-par-habitant">#</a></h1>
+<p>La consommation énergétique par habitant n’a pas toujours été aussi considérable. Le tableau ci-dessous donne les ordres de grandeur historiques de la puissance énergétique mise à la disposition d&rsquo;un Français moyen.</p>
 <table>
   <thead>
       <tr>
-          <th>époque</th>
-          <th>puissance moyenne</th>
-          <th>équivalent humain</th>
-          <th>équivalent cheval</th>
+          <th>Époque</th>
+          <th>Puissance moyenne</th>
+          <th>Équivalent humain</th>
+          <th>Équivalent cheval</th>
+          <th>Équivalent moulin à eau</th>
       </tr>
   </thead>
   <tbody>
@@ -160,63 +214,69 @@
           <td>~200 W</td>
           <td>2</td>
           <td>0,25</td>
+          <td>1 moulin pour 50 habitants</td>
       </tr>
       <tr>
           <td>1800</td>
           <td>~300 W</td>
           <td>3</td>
           <td>0,4</td>
+          <td>1 moulin pour 33 habitants</td>
       </tr>
       <tr>
           <td>1900</td>
           <td>~1000 W</td>
           <td>10</td>
           <td>1,3</td>
+          <td>1 moulin pour 10 habitants</td>
       </tr>
       <tr>
           <td>1950</td>
           <td>~2000 W</td>
           <td>20</td>
           <td>2,6</td>
+          <td>1 moulin pour 5 habitants</td>
       </tr>
       <tr>
           <td>2025</td>
           <td>~2500 W</td>
           <td>25</td>
           <td>3,3</td>
+          <td>1 moulin pour 4 habitants</td>
       </tr>
   </tbody>
 </table>
-<p><em>(Un humain peut produire environ 100 W en continu, un cheval environ 750 W.)</em></p>
-<p>La révolution industrielle a multiplié par <strong>plus de dix l’énergie disponible par habitant</strong>.</p>
+<p><em>(Un humain adulte peut produire environ 100 W en continu, un cheval environ 750 W).</em><br>
+<em>(Un moulin à eau classique développe une puissance mécanique de l’ordre de 10 kW, soit l’équivalent de quelques chevaux de trait ou d’une dizaine de travailleurs humains en continu).</em></p>
+<p>La révolution industrielle a multiplié par <strong>plus de douze l’énergie disponible par habitant</strong>, d&rsquo;autant que la population du pays a plus que triplé sur la même période.</p>
 <hr>
 <h1 id="traduire-lénergie-en-bois">Traduire l’énergie en bois<a hidden class="anchor" aria-hidden="true" href="#traduire-lénergie-en-bois">#</a></h1>
-<p>Un mètre cube de bois sec contient environ :</p>
-<p><strong>1,8 à 2 MWh d’énergie</strong></p>
-<p>Pour fournir 22 MWh par an :</p>
-<p>➡ <strong>11 stères de bois par personne</strong></p>
+<p>Une autre manière de visualiser cette énergie consiste à la convertir en biomasse. Un mètre cube de bois sec (1 stère) contient environ <strong>1,8 à 2 MWh d’énergie</strong></p>
+<p>Pour fournir 22 MWh par an, on doit donc produire :</p>
+<p>➡ <strong>11 stères de bois par personne</strong>.</p>
 <p>Cela correspond aussi à :</p>
-<ul>
-<li><strong>4,5 tonnes de granulés</strong></li>
-<li>environ <strong>300 sacs de pellets</strong></li>
-</ul>
+<p>➡ <strong>4,5 tonnes de granulés</strong>, soit environ <strong>300 sacs de pellets</strong>.</p>
 <p>Pour une famille de quatre personnes :</p>
 <p>➡ <strong>44 stères de bois par an</strong></p>
 <p>Si toute l’énergie française provenait du bois :</p>
-<p>➡ <strong>750 millions de stères par an</strong></p>
-<p>La forêt française produit environ <strong>90 millions de m³ par an</strong>.</p>
+<p>➡ <strong>750 millions de stères par an</strong>.</p>
+<p>La forêt française produit environ <strong>90 millions de m³ par an</strong>, dont seulement <strong>50 millions sont réellement récoltés</strong>. Il faudrait donc multiplier la récolte forestière par <strong>8 à 15</strong>.</p>
+<p>La biomasse peut jouer un rôle utile, mais ces ordres de grandeur montrent qu’elle ne peut pas soutenir à elle seule une société industrielle moderne.</p>
 <hr>
 <h1 id="léquivalent-en-panneaux-solaires">L’équivalent en panneaux solaires<a hidden class="anchor" aria-hidden="true" href="#léquivalent-en-panneaux-solaires">#</a></h1>
-<p>Un panneau photovoltaïque produit environ :</p>
-<p><strong>220 kWh/m²/an</strong></p>
-<p>Pour produire 22 000 kWh :</p>
+<p>La même énergie peut être traduite en surface solaire. Un panneau photovoltaïque produit environ <strong>220 kWh/m²/an</strong>.</p>
+<p>Pour produire 22 000 kWh, il faut donc :</p>
 <p>➡ <strong>100 m² de panneaux par personne</strong></p>
 <p>À l’échelle de la France :</p>
-<p>➡ <strong>6800 km² de panneaux solaires</strong></p>
-<p>Mais avec stockage et intermittence :</p>
-<p>➡ <strong>15 000 à 20 000 km²</strong></p>
+<p>➡ <strong>6 800 km² de panneaux solaires</strong></p>
+<p>Mais comme le soleil ne brille ni la nuit ni en hiver, un système largement solaire nécessiterait plutôt :</p>
+<p>➡ <strong>15 000 à 20 000 km²</strong>, soit environ 5-7% des surfaces agricoles du territoire métropolitain ou la superficie moyenne de 2,5 à 3,3 départements.</p>
+<p>Les surfaces artificialisées en France représente près de 50 000 km², soit 9% du territoire. Mais si l’on se restreint aux toitures de bâtiments et aux parkings qui pourraient être réellement couverts de panneaux, on parle de l’ordre de quelques milliers de km² tout au plus, soit bien moins de 1% du territoire métropolitain, et nettement moins que les 15 000 à 20 000 km² qu’exigerait un système massivement solaire : la majorité de ces surfaces devraient être prises sur d’autres usages du sol.</p>
 <hr>
 <h1 id="ordres-de-grandeur-des-sources-dénergie">Ordres de grandeur des sources d’énergie<a hidden class="anchor" aria-hidden="true" href="#ordres-de-grandeur-des-sources-dénergie">#</a></h1>
+<p>Pour comparer ces technologies de manière cohérente, il faut les observer selon plusieurs contraintes physiques simultanées : territoire occupé, émissions de gaz à effet de serre et ressources matérielles nécessaires.</p>
+<p>Afin de nous représenter clairement ce que cela représente, résumons ces contraintes en un tableau.</p>
+<p><em>A noter : les ordres de grandeur ci-dessous correspondent à une production d’énergie couvrant la totalité des besoins actuels, afin de comparer les technologies sur une base commune.</em></p>
 <table>
   <thead>
       <tr>
@@ -224,7 +284,7 @@
           <th>MWh/ha/an</th>
           <th>CO₂e kg/MWh</th>
           <th>territoire / personne</th>
-          <th>matériaux t/TWh (50 ans)</th>
+          <th>matériaux t/TWh</th>
           <th>stockage</th>
       </tr>
   </thead>
@@ -233,7 +293,7 @@
           <td>biomasse</td>
           <td>40–60</td>
           <td>30–200</td>
-          <td>0,37–0,55 ha</td>
+          <td>3 700–5 500 m²</td>
           <td>~5000</td>
           <td>non</td>
       </tr>
@@ -241,74 +301,89 @@
           <td>éolien terrestre</td>
           <td>150–250</td>
           <td>10–15</td>
-          <td>0,09–0,15 ha</td>
-          <td>~30 000 – 35 000</td>
+          <td>900–1 500 m²</td>
+          <td>30 000-35 000</td>
+          <td>élevé</td>
+      </tr>
+      <tr>
+          <td>éolien offshore</td>
+          <td>2 000–3 500</td>
+          <td>15–25</td>
+          <td>60–110 m²</td>
+          <td>40 000–60 000</td>
           <td>élevé</td>
       </tr>
       <tr>
           <td>solaire PV</td>
           <td>900–1300</td>
           <td>40–60</td>
-          <td>0,017–0,024 ha</td>
-          <td>~16 700</td>
+          <td>170–240 m²</td>
+          <td>15 000–25 000</td>
           <td>très élevé</td>
       </tr>
       <tr>
           <td>nucléaire</td>
           <td>~50 000</td>
           <td>6–12</td>
-          <td>0,00044 ha</td>
+          <td>4 m²</td>
           <td>~1 400</td>
           <td>faible</td>
       </tr>
       <tr>
           <td>gaz</td>
           <td>~10 000</td>
-          <td>~400</td>
-          <td>0,0022 ha</td>
+          <td>350–450</td>
+          <td>22 m²</td>
           <td>~1 400</td>
           <td>faible</td>
       </tr>
       <tr>
           <td>pétrole</td>
           <td>~15 000</td>
-          <td>~300</td>
-          <td>0,0015 ha</td>
+          <td>250–300</td>
+          <td>15 m²</td>
           <td>~1 400</td>
           <td>faible</td>
       </tr>
       <tr>
           <td>charbon</td>
           <td>~20 000</td>
-          <td>~900</td>
-          <td>0,0011 ha</td>
+          <td>800–1000</td>
+          <td>11 m²</td>
           <td>~1 900</td>
           <td>faible</td>
       </tr>
   </tbody>
 </table>
-<p><em>Les matériaux incluent le renouvellement des infrastructures sur 50 ans.</em></p>
+<p><em>Les matériaux incluent le renouvellement des infrastructures sur 50 ans. On donne ici un ordre de grandeur pour comparer les filières entre elles, pas un inventaire exhaustif.</em><br>
+<em>Pour l’éolien offshore, on parle de surface marine occupée par les parcs, la mer restant par ailleurs partiellement utilisable (pêche, trafic) selon les zones.</em><br>
+<em>Pour les énergies fossiles, pétrole, gaz, charbon, il est tenu compte des pertes dues au transport, et pour le gaz, de la liquéfaction GNL et des fuites de méthane.</em></p>
 <hr>
 <h1 id="contraintes-physiques-des-sources-dénergie">Contraintes physiques des sources d’énergie<a hidden class="anchor" aria-hidden="true" href="#contraintes-physiques-des-sources-dénergie">#</a></h1>
-<h3 id="territoire">Territoire<a hidden class="anchor" aria-hidden="true" href="#territoire">#</a></h3>
-<pre tabindex="0"><code>biomasse      █████████████████████████
-éolien        ███████
-solaire       ██
+<h3 id="territoire-pour-1-mwh">Territoire (pour 1 MWh)<a hidden class="anchor" aria-hidden="true" href="#territoire-pour-1-mwh">#</a></h3>
+<pre tabindex="0"><code>biomasse      	  █████████████████████████████████████
+éolien terrestre  █████████████
+solaire       	  ████
+éolien offshore   ██
+tous fossiles     ▏
+nucléaire         ▏
+</code></pre><h3 id="émissions-de-coe">Émissions de CO₂e<a hidden class="anchor" aria-hidden="true" href="#émissions-de-coe">#</a></h3>
+<pre tabindex="0"><code>charbon       ██████████████████████████████████████████████████████
+gaz           ███████████████████████████
+pétrole       ██████████████████
+biomasse      ██████
+solaire       ███
+éolien        █▏
 nucléaire     ▏
-fossiles      ▏
-</code></pre><h3 id="émissions-coe">Émissions CO₂e<a hidden class="anchor" aria-hidden="true" href="#émissions-coe">#</a></h3>
-<pre tabindex="0"><code>charbon       █████████████████████████
-gaz           █████████
-pétrole       ███████
-solaire       ██
-éolien        ▏
-nucléaire     ▏
-</code></pre><h3 id="matériaux-50-ans">Matériaux (50 ans)<a hidden class="anchor" aria-hidden="true" href="#matériaux-50-ans">#</a></h3>
-<pre tabindex="0"><code>éolien        ███████████████████
-solaire       █████████
+</code></pre><h3 id="matériaux-sur-50-ans">Matériaux (sur 50 ans)<a hidden class="anchor" aria-hidden="true" href="#matériaux-sur-50-ans">#</a></h3>
+<pre tabindex="0"><code>éolien        █████████████████████████████████
+solaire       ███████████████
 nucléaire     ██
-gaz           ██
-</code></pre><p>Ces graphiques illustrent une réalité simple : chaque source d’énergie déplace les contraintes entre territoire, climat et ressources matérielles.</p>
+fossiles      ██
+</code></pre><p>Ci-dessous une vue consolidée de ces informations dans un graphique unique.</p>
+<p><img alt="Contraintes énergétiques" loading="lazy" src="/images/energie-comparaison.svg"></p>
+<p><em>Attention : les valeurs sont normalisées (0–1) pour permettre la comparaison visuelle entre technologies. Mais il n&rsquo;y a pas de comparaison possible entre deux contraintes différentes.</em></p>
+<p>Le graphique montre bien que chaque source d’énergie déplace les contraintes physiques : certaines nécessitent beaucoup de territoire, d’autres consomment beaucoup de ressources et matériaux, d’autres émettent davantage de CO₂. Le choix du mix énergétique est donc fonction de divers compromis sur le territoire, les impacts climatiques ou la consommation de matériaux.</p>
 <hr>
 <h1 id="trois-illusions-énergétiques">Trois illusions énergétiques<a hidden class="anchor" aria-hidden="true" href="#trois-illusions-énergétiques">#</a></h1>
 <h2 id="biomasse">Biomasse<a hidden class="anchor" aria-hidden="true" href="#biomasse">#</a></h2>
@@ -347,16 +422,16 @@ gaz           ██
 <p>Deux exemples suffisent à montrer l’ordre de grandeur des économies possibles.</p>
 <ul>
 <li>
-<p>Réduire de <strong>10 % le trafic aérien</strong> représenterait <strong>10 TWh économisés</strong>.<br>
-C’est l’équivalent de la production annuelle d’environ <strong>22 millions de panneaux solaires</strong>, couvrant <strong>45 km²</strong> de surface.</p>
+<p>Réduire de <strong>20 % le trafic aérien</strong> représenterait <strong>20 TWh économisés</strong>.<br>
+C’est l’équivalent de la production annuelle d’environ <strong>45 millions de panneaux solaires</strong>, couvrant <strong>90 km²</strong> de surface, ou de 2 réacteurs nucléaires.</p>
 </li>
 <li>
 <p>Diviser par deux le <strong>kilométrage automobile actuel</strong> économiserait environ <strong>150 TWh d’énergie par an</strong>, soit l’équivalent de la production de <strong>15 réacteurs nucléaires</strong>.<br>
-Si l’ensemble du parc automobile était électrique, l’énergie nécessaire serait environ <strong>trois fois plus faible</strong>. Dans ce cas, la même réduction de kilométrage représenterait tout de même <strong>5 réacteurs nucléaires</strong>.</p>
+Pour être juste, si l’ensemble du parc automobile était alimenté par l&rsquo;électricité, l’énergie nécessaire serait environ <strong>trois fois plus faible</strong> grâce à un rendement nettement supérieur. Dans ce cas, la même réduction de kilométrage représenterait tout de même <strong>5 réacteurs nucléaires</strong>.</p>
 </li>
 </ul>
 <p>Même avec des véhicules électriques beaucoup plus efficaces, la mobilité reste l’un des <strong>postes énergétiques majeurs</strong> de nos sociétés.</p>
-<p>L’électrification serait évidemment un progrès considérable car elle réduirait fortement l’énergie consommée. Mais elle se heurterait à une contrainte centrale : <strong>la structure actuelle de nos usages énergétiques.</strong></p>
+<p>L’électrification serait évidemment un progrès considérable car elle réduirait fortement l’énergie consommée. Mais elle se heurterait à une contrainte majeure : <strong>la structure actuelle de nos usages énergétiques.</strong></p>
 <p>En France seulement, cela concernerait :</p>
 <ul>
 <li>environ <strong>40 millions de véhicules</strong></li>
@@ -547,6 +622,53 @@ Si l’ensemble du parc automobile était électrique, l’énergie nécessaire 
         }
     })
 
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'Copier';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'Copié !';
+            setTimeout(() => {
+                copybutton.innerHTML = 'Copier';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
 </script>
 </body>
 
